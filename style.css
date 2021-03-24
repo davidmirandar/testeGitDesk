@@ -1,5 +1,5 @@
 body{
     color: brown;
-    background-image:linear-gradient(rgb(105, 105, 189),rgba(10,10,100));
+    background-color:linear-gradient(rgb(105, 105, 189),rgba(10,10,100));
     background-repeat: no-repeat;
 }
