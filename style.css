@@ -3,3 +3,7 @@ body{
     background-image:linear-gradient(rgb(105, 105, 189),rgba(10,10,100));
     background-repeat: no-repeat;
 }
+
+p{
+  color: red;
+}
